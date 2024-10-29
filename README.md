@@ -49,8 +49,9 @@ Before making the needed changes , follow these instructions(if you are familiar
 - These screen shots were taken on Windows 10 OS, result might vary according to your Operating System
 ```
 ### calculator themes:
-![light mode screenshot](https://user-images.githubusercontent.com/94454456/228864882-e7d9558a-facc-4e7d-a48a-4c5c1f2912af.png)
-![dark mode screenshot](https://user-images.githubusercontent.com/94454456/228865275-a596d267-f213-4a11-8d17-0c17a3bfcc73.png)
+
+![light mode screenshot](https://github.com/user-attachments/assets/52069ab5-3abc-406e-b61a-3bd2e462b7b2)
+![dark mode screenshot](https://github.com/user-attachments/assets/326d5109-6e31-4649-b8d0-25692a46bc34)
 
 ### unary functions:
 
